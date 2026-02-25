@@ -2,7 +2,6 @@ USE omnimart;
 
 
 DROP TABLE IF EXISTS bronze_dim_customers;
-TRUNCATE TABLE bronze_dim_customers;
 CREATE TABLE `bronze_dim_customers` (
   `id` int NOT NULL,
   `name` varchar(100) NOT NULL,
