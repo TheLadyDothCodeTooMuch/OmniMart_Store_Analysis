@@ -24,7 +24,7 @@ def get_engine():
 def load_database(df, table_name):
     engine = get_engine()
     try:
-        # uses if_exists='append' so previous history is deleted
+        # uses if_exists='replace' so previous history is deleted
         df.to_sql(table_name, engine, if_exists="replace", index=False)
         print(f"{table_name} loaded successfully.")
     except Exception as other_error:
