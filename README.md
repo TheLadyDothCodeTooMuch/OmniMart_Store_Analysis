@@ -1,4 +1,4 @@
-# OmniMart: End-to-End Retail Data Pipeline 🛒🏗️
+# OmniMart: End-to-End Retail Data Pipeline 🛒
 
 A comprehensive data engineering project simulating a high-volume retail ecosystem. This project demonstrates a full **Medallion Architecture** workflow: generating raw data with Python, managing a relational database in MySQL, and delivering business intelligence via Power BI.
 
@@ -22,7 +22,7 @@ To simulate a real-world environment, I used Python to generate a massive, relat
 
 ## 💾 Transformation & Cleaning (SQL)
 
-The transition from Bronze to Silver focused on making the data "analytics-ready."
+The transition from Bronze to Silver focused on making the data ready for analytics:
 
 * **Sanitization:** Applied RegEx to clean customer names by removing titles and suffixes (e.g., Mr, Ms, PhD, MD, II, III).
 * **Data Modeling:** Used CTEs to calculate complex metrics such as Average Order Value (AOV).
