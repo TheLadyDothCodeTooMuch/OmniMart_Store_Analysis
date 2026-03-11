@@ -1,4 +1,4 @@
-# OmniMart: End-to-End Retail Data Pipeline 🛒
+# E-Commerce Growth & Customer Intelligence | OmniMart 🛒
 
 A comprehensive data engineering project simulating a high-volume retail ecosystem. This project demonstrates a full **Medallion Architecture** workflow: generating raw data with Python, managing a relational database in MySQL, and delivering business intelligence via Power BI.
 
