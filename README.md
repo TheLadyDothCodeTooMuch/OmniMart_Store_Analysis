@@ -16,7 +16,7 @@ The final dashboard tracks **$638M+ in simulated revenue** and provides three co
 
 * **Increase Basket Size:** Data suggests a high frequency of 1-2 item orders. I recommend tiered shipping incentives starting at 3 items. Also, implementing frequently bought together bundles for 3+ items could really drive up Average Order Value.
 * **Targeted Spend:** Reallocate marketing budget to high-conversion age demographics (Gen-Zs [15-29] and Boomers [classified as 75+]) identified in the category heatmaps.
-* **Inventory Shift:** I found a cluster of underperforming products with low sales frequency (women's clothing - particularly tops nad gaming devices). These are perfect candidates for a seasonal clearance or a targeted social media push to free up warehouse space.
+* **Inventory Shift:** I found a cluster of underperforming products with low sales frequency (women's clothing - particularly tops, and gaming devices). These are perfect candidates for a seasonal clearance or a targeted social media push to free up warehouse space and working capital.
 * **Geographic Expansion:** Given the low purchase volume in North America compared to the business's success in Africa and Europe, there is a major opportunity to investigate supply chain or marketing gaps in the Western market.
 
 ## 🏗️ Architecture Overview
